@@ -3,11 +3,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "bookmark-purple": "#1751dc",
-        "bookmark-red": "#d23009",
-        "bookmark-blue": "#222940",
-        "bookmark-grey": "#9194A2",
-        "bookmark-white": "#f7f7f7",
+        "surfmon-blue": "#1751dc",
+        "surfmon-red": "#d23009",
+        "surfmon-purple": "#222940",
+        "surfmon-grey": "#9194A2",
+        "surfmon-white": "#f7f7f7",
       },
     },
     fontFamily: {

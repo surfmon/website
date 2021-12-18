@@ -651,27 +651,27 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-bottom-width: 1px;
 }
 
-.border-bookmark-white {
+.border-surfmon-white {
   --tw-border-opacity: 1;
   border-color: rgb(247 247 247 / var(--tw-border-opacity));
 }
 
-.bg-bookmark-red {
+.bg-surfmon-red {
   --tw-bg-opacity: 1;
   background-color: rgb(210 48 9 / var(--tw-bg-opacity));
 }
 
-.bg-bookmark-purple {
+.bg-surfmon-blue {
   --tw-bg-opacity: 1;
   background-color: rgb(23 81 220 / var(--tw-bg-opacity));
 }
 
-.bg-bookmark-white {
+.bg-surfmon-white {
   --tw-bg-opacity: 1;
   background-color: rgb(247 247 247 / var(--tw-bg-opacity));
 }
 
-.bg-bookmark-blue {
+.bg-surfmon-purple {
   --tw-bg-opacity: 1;
   background-color: rgb(34 41 64 / var(--tw-bg-opacity));
 }
@@ -751,7 +751,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-transform: uppercase;
 }
 
-.text-bookmark-blue {
+.text-surfmon-purple {
   --tw-text-opacity: 1;
   color: rgb(34 41 64 / var(--tw-text-opacity));
 }
@@ -761,12 +761,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-bookmark-grey {
+.text-surfmon-grey {
   --tw-text-opacity: 1;
   color: rgb(145 148 162 / var(--tw-text-opacity));
 }
 
-.text-bookmark-purple {
+.text-surfmon-blue {
   --tw-text-opacity: 1;
   color: rgb(23 81 220 / var(--tw-text-opacity));
 }
@@ -811,7 +811,7 @@ html, body {
   transition-duration: 300ms;
 }
 
-.btn-purple {
+.btn-blue {
   --tw-bg-opacity: 1;
   background-color: rgb(23 81 220 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
@@ -823,12 +823,12 @@ html, body {
   background-color: rgb(247 247 247 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-bookmark-white:hover {
+.hover\:bg-surfmon-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(247 247 247 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-bookmark-purple:hover {
+.hover\:bg-surfmon-blue:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(23 81 220 / var(--tw-bg-opacity));
 }
