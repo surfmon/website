@@ -9,6 +9,11 @@ html, body {
     overflow-x: hidden;
 }
 
+.logo-img {
+  width: 280px; /* you can use % */
+  height: auto;
+}
+
 .btn {
   @apply shadow-md py-3 px-6 rounded-md transition duration-300;
 }
